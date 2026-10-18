@@ -7,7 +7,7 @@ This directory contains the full implementation framework for the
 
 ## Core Framework
 
-* [00 — Master Framework](00_master_framework.md)
+* [00 — Master Framework](00_Master_Framework.md)
 
 ---
 
