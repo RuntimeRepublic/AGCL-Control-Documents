@@ -1,0 +1,137 @@
+00M — Lesser Magistrate and Interposition Control
+American Gold Contract for Liberty (AGCL)
+Status: Draft (not adopted)
+Version: 0.1
+Date: 2026-11-15
+Supersedes: none
+Scope: All AGCL-governed authorities, lesser magistrates, citizen teams, and correction of higher authority
+
+
+I. PURPOSE
+
+This Control sets the ordered steps by which citizens and lawful lesser magistrates hold a higher magistrate accountable.
+
+The law is king, not the king the law.
+Correction comes by lawful steps, in order, on the public record.
+Private persons never take the sword.
+
+
+II. GOVERNING PRINCIPLE
+
+Follow the founders' sequence: a long train of documented abuse, facts submitted to a candid world, repeated petition, warning, peaceful pressure, and only then action by a lawful civil body.
+
+
+III. DEFINITIONS
+
+Higher Magistrate
+An authority whose acts are under review.
+
+Lesser Magistrate
+A lawfully appointed or elected lower authority acting within its own office: a governor, legislature, county officer, sheriff, or jury.
+
+Team
+A voluntary citizen body modeled on the 1772 committees of correspondence (a Runtime Republic Study Circle).
+
+Revere Network
+The network that carries confirmed smoke-test failures between teams, modeled on the 1775 post riders.
+
+Interposition
+A lesser magistrate standing between citizens and an unlawful act of a higher magistrate, within the lesser magistrate's own lawful powers.
+
+
+IV. THE LADDER
+
+Each step must be complete and on the public record before the next begins.
+
+Rule M1 — A Long Train, Not Light Causes (teams)
+A documented pattern of failed smoke tests over time (00L), not one failure.
+"Governments long established should not be changed for light and transient causes" (Declaration of Independence, 1776).
+
+Rule M2 — Facts Submitted to a Candid World (teams; Revere Network)
+Every grievance is a cited test card with its failure record on the public ledger (00G).
+
+Rule M3 — Petition, Repeatedly (teams and citizens)
+Citizen triggers and petitions to officeholders, with every reply logged.
+"We for ten years incessantly and ineffectually besieged the throne as supplicants" (Declaration of the Causes and Necessity of Taking Up Arms, 1775).
+
+Rule M4 — Warn and Appeal to Fellow Citizens (teams; Revere Network)
+Public appeals and open letters seeking consensus.
+
+Rule M5 — Peaceful Pressure as the Last Admonition (teams; lesser magistrates)
+Teams: lawful boycotts and lawsuits.
+Lesser magistrates: refusal to enforce unlawful acts and legislative interposition.
+"As the last peaceable admonition" (1775).
+
+Rule M6 — A Lawful Civil Body Acts, with the People's Consent (lesser magistrates only)
+Action by recorded vote, in public, within the body's own office, "by Authority of the good People" (1776).
+
+Rule M7 — Count the Cost (lesser magistrates only)
+A published cost-and-consequence assessment before any escalation (00F).
+"We have counted the cost of this contest" (1775).
+
+Rule M8 — Defensive Force Only Against Violence Actually Offered (lawful authority only)
+Force only in defense, only by lawful authority (for Kansas, Kansas Constitution Article 8, Section 4; United States Constitution Article I, Section 10).
+Never by private persons (00L Rule L13).
+"Against violence actually offered, we have taken up arms" (1775).
+
+Rule M9 — Declared Limits and Exit (lesser magistrates only)
+Every interposition states its end condition in advance (00A).
+"We shall lay them down when hostilities shall cease on the part of the aggressors" (1775).
+
+Rule M10 — Separation, Last of All (lawful representative body only)
+The final remedy, only after the record shows every prior step exhausted.
+
+
+V. TEAMS STOP AT STEP FIVE
+
+Rule M11 — Team Limit
+Teams act only at Steps 1 through 5.
+Teams never act as a government, never claim official authority, and never use force.
+Teams may petition lesser magistrates to act at Step 6.
+
+
+VI. THE REVERE NETWORK
+
+Rule M12 — Confirmed Alerts Only
+An alert travels the Revere Network only when a failed smoke test is rerun and confirmed by a second team.
+
+Rule M13 — Facts Only
+An alert carries the test card, the data, and the evidence. It calls only for Steps 1 through 5.
+
+Rule M14 — Public and Correctable
+Every alert is logged publicly. A false alarm is retracted publicly.
+
+Rule M15 — Human Push
+An AI may prepare an alert; a person sends it.
+
+
+VII. HISTORICAL AND SCRIPTURAL FOUNDATION
+
+Witnesses (never authorities, 000 Rule S5): Calvin, Institutes IV.xx.31; Magdeburg Confession (1550); Vindiciae contra Tyrannos (1579); Samuel Rutherford, Lex, Rex (1644); committees of correspondence (1772–1774); committees of safety (Benjamin Franklin, president of the Pennsylvania Committee of Safety, 1775); the Lexington Alarm (1775); the Declaration of the Causes and Necessity of Taking Up Arms (1775); the Declaration of Independence (1776).
+
+Scripture (whole stories, 000 Rule S4): 1 Samuel 25 (vengeance stopped, lawful remedy); Matthew 26:52 ("all they that take the sword shall perish with the sword"). Further interposition precedents: pending research and Ruling (000 Rule S3).
+
+
+VIII. FOOTNOTES
+
+Red team: the lesser-magistrate doctrine carries the possibility of violence and war; modern groups claim the founders to justify private armed action; Boston's committee acted as an unsanctioned government; and the founding Congress spoke of liberty while slavery continued.
+Blue team: teams stop at peaceful steps; only lawful bodies act beyond them; the ladder demands years of public evidence and petition first; private force is barred; and the slavery contradiction is recorded honestly as history.
+
+
+IX. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Executive orders
+- Budget acts
+- Administrative rules
+
+
+X. SYSTEM INTEGRATION
+
+This Control works with 000, 00A, 00F, 00G, 00I, 00K (Rule K7), and 00L.
+
+
+XI. DECLARATION
+
+Petition first, prove everything, and leave the sword to lawful hands.

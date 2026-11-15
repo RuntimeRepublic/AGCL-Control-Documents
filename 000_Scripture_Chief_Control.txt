@@ -1,0 +1,137 @@
+000 — Scripture Chief Control
+American Gold Contract for Liberty (AGCL)
+Status: Draft (not adopted)
+Version: 0.1
+Date: 2026-11-15
+Supersedes: none
+Scope: All AGCL Controls, Points, doctrine documents, lessons, and rulings
+
+
+I. PURPOSE
+
+This Control establishes Scripture as the chief control over the AGCL system and sets the method by which Scripture is cited.
+
+God makes the rules.
+Rulers are ministers, not owners.
+Drift is the first enemy of liberty.
+
+
+II. GOVERNING PRINCIPLE
+
+Every authority traces to God, and every rule is tested against His Word read whole.
+
+"Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's" (Matthew 22:21). Caesar's domain is inside God's rules, not beside them.
+
+
+III. DEFINITIONS
+
+Chief Control
+The control every other AGCL document is read under.
+
+Whole-Story Citation
+Citing a passage with its full narrative, conditions, and outcome, never one line lifted out.
+
+Ruling
+The founder's recorded decision on a disputed reading, issued by the method in Section VI.
+
+Witness
+An economist, historian, theologian, or statesman whose work agrees with a rule. A witness is never an authority.
+
+
+IV. RULES
+
+Rule S1 — Scripture Is the Chief Control
+Every AGCL Control and Point is read under Scripture.
+Scripture is quoted from the King James Version.
+
+Rule S2 — Three Domains, Family First
+Family, civil government, and church are each legitimate domains under God.
+Family is instituted first (Genesis 2:24); government's sword next (Genesis 9:6); then the worshipping assembly.
+No domain may absorb another.
+
+Rule S3 — Rulings on Disputed Readings
+Where a reading is disputed, the founder issues a Ruling by the method in Section VI.
+Every Ruling is recorded, dated, and versioned under 00J.
+Until a Ruling exists, the reading is marked pending.
+
+Rule S4 — Whole-Story and Whole-System Citation
+Scripture is cited as whole stories, never one aspect lifted out and the rest left behind.
+A practice drawn from Scripture is cited with its purpose, the consent by which it was adopted, its limits, and its reset.
+A tax cited without its method of approval and who consented is returned in review.
+Israel's civil laws are cited for their general equity as a whole system (Westminster Confession 19.4).
+
+Rule S5 — Witnesses, Not Authorities
+Economists, historians, and theologians are cited as witnesses who agree, never as authorities.
+The Doctrinal Foundations document remains subordinate to the Controls.
+Scripture is not subordinate; it is the chief control.
+
+Rule S6 — Classification of Every Scripture Link
+Every link is classified as exactly one of:
+Command — the text directly commands it.
+Principle — the text states a principle the rule applies.
+Precedent — the text records an example the rule follows.
+Analogy — the text governs something else; the rule reasons by comparison.
+Modern design — no scriptural basis; an engineering choice.
+No link is described with stronger wording than its class allows.
+Every link with a counter-text names it.
+
+Rule S7 — Correction by Lawful Process
+Unlawful rule is corrected through lawful process and consensus, not private violence (00L).
+Lesser magistrates may hold a higher magistrate accountable by the ordered steps of 00M.
+
+
+V. SCRIPTURAL FOUNDATION (whole stories)
+
+Genesis 2:17; 3:3 — The first drift.
+God told Adam not to eat of the tree; Eve reported, "neither shall ye touch it."
+Teaching: adding to a rule is drift (Rule S4; 00J).
+
+1 Samuel 25 — David, Nabal and Abigail.
+Protection earned the dues; Nabal refused; Abigail stopped David's vengeance and paid; God judged.
+Teaching: dues follow protection; the remedy is lawful (Rule S7).
+
+2 Samuel 24 — David's census.
+The king counted fighting men; judgment followed; the king then refused to take Araunah's land as a gift: "neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing" (24:24).
+Teaching: even the king pays full price for private land.
+
+Matthew 22:15–22 — Render unto Caesar.
+A trap question; the coin bears Caesar's image; man bears God's image (Genesis 1:27).
+Teaching: God makes the rules (Rule S1).
+
+Romans 13:1–7 — The minister of God.
+Authority is "the minister of God to thee for good"; "For this cause pay ye tribute also."
+Teaching: authority is defined by its function.
+
+
+VI. HERMENEUTICAL METHOD (for Rulings)
+
+1. Read the whole story, with what comes before and after.
+2. Compare Scripture with Scripture.
+3. Name every counter-text.
+4. Classify the link (Rule S6).
+5. State the Ruling in one sentence, with its date and version (00J).
+6. Record what would change the Ruling.
+
+
+VII. FOOTNOTES
+
+Red team: critics will say a Scripture-based framework cannot govern a pluralist nation, and that a single founder's Rulings concentrate interpretive power.
+Blue team: the AGCL governs government's structure, not anyone's conscience; every Ruling is public, dated, and versioned, names its counter-texts, and can be challenged; and the founders themselves read authority through Scripture.
+
+
+VIII. NON-OVERRIDABILITY
+
+This Control may not be overridden by any other AGCL Control, doctrine document, emergency, or administrative act.
+
+
+IX. SYSTEM INTEGRATION
+
+This Control governs:
+- All AGCL Controls (00A–00M) and Points
+- The Doctrinal Foundations document
+- All lessons and Rulings
+
+
+X. DECLARATION
+
+The law is king because God is King.
