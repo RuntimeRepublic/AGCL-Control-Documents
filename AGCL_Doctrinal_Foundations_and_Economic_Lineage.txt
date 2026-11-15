@@ -62,6 +62,33 @@ Alexander Hamilton
 Hamilton understood public credit as a tool that must be bounded by discipline, time, and ownership. AGCL’s sinking fund mechanisms, debt scoping, and prohibition of perpetual borrowing directly revive Hamilton’s original design logic while removing political discretion.
 
 
+REFORMATION FOUNDATIONS
+
+John Calvin
+Private Christians submit to the ruling authorities, but lawful "popular magistrates" may curb kings (Institutes IV.xx.31). AGCL's distinction between private persons and lawful lesser magistrates (00M) follows this line.
+
+The Magdeburg Confession (1550)
+The first formal statement of the doctrine of the lesser magistrate: subordinate powers may resist a supreme power that destroys what it is bound to protect. AGCL's interposition rules (00M) restate it with ordered steps and a public record.
+
+Vindiciae contra Tyrannos (1579)
+A Huguenot treatise on the covenant between God, ruler, and people, and on lawful resistance led by lower magistrates. AGCL's rule that authority is conditional and revocable (00A) agrees with it.
+
+Samuel Rutherford, Lex, Rex: or, The Law and the Prince (1644)
+The law is king, not the king the law. AGCL's insistence that no authority stands above the structure that grants it (00I, 00J, 000) restates Rutherford's title.
+
+
+FOUNDING-ERA FOUNDATIONS (additions)
+
+Committees of Correspondence and Committees of Safety (1772–1776)
+Local committees shared information and called on other towns to form their own; committees of safety were appointed by lawful assemblies (Benjamin Franklin served as president of the Pennsylvania Committee of Safety, 1775). Runtime Republic teams follow the correspondence model and stop at peaceful steps (00M Rule M11).
+
+The Lexington Alarm (1775)
+Post riders carried confirmed news across a network of routes. The Revere Network (00M Rules M12–M15) carries confirmed smoke-test failures between teams.
+
+Declaration of the Causes and Necessity of Taking Up Arms (1775) and Declaration of Independence (1776)
+A lawful representative body documented a long train of abuses, petitioned for years, warned, applied peaceful pressure, counted the cost, acted only in defense, and declared when it would stop. AGCL 00M follows that sequence.
+
+
 V. STRUCTURAL CONVERGENCE
 
 AGCL does not adopt economists as authorities.

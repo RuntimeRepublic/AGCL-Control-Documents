@@ -1,0 +1,180 @@
+00L — Smoke Test and Citizen Trigger Control
+American Gold Contract for Liberty (AGCL)
+Status: Draft (not adopted)
+Version: 0.1
+Date: 2026-11-15
+Supersedes: none
+Scope: All AGCL Controls, Points, programs, and authorities
+
+
+I. PURPOSE
+
+This Control requires every AGCL standard to carry a cited smoke test and gives every citizen a way to trigger enforcement through due process.
+
+Citizens grant enumerated powers with strings attached.
+A standard without a test is a suggestion.
+A test without a citizen trigger is a report no one must read.
+
+
+II. GOVERNING PRINCIPLE
+
+Every power is tested. Every citizen can pull the trigger. Every remedy is lawful.
+
+Correction comes by due process and consensus, never by violence.
+
+
+III. DEFINITIONS
+
+Test Card
+The required record of an AGCL standard's smoke test (Section IV).
+
+Smoke Test
+A measurable, published pass/fail check run on official public data.
+
+Citizen Trigger
+A citizen's filing that a smoke test has failed.
+
+
+IV. TEST CARD REQUIREMENT
+
+Rule L1 — Every Standard Carries a Test Card
+Each AGCL Control and Point must state:
+1. Standard (one sentence)
+2. Smoke test (pass/fail check)
+3. Data source (official, public, cited; 00G)
+4. Frequency (weekly unless stated)
+5. Threshold (the exact failing number or condition)
+6. Runner (automated and public; anyone may rerun it)
+7. Remedy (the 00I step that follows failure)
+8. Current treatment (how courts and governments treat it today, with sources)
+9. Path (legislation, amendment, or evidence and petitions)
+10. Scripture (whole-story citation, where applicable)
+
+Rule L2 — Incomplete Without a Test Card
+A standard without a test card is marked incomplete.
+
+Rule L3 — Thresholds Are Versioned
+Every threshold change is a recorded amendment under 00J.
+
+
+V. CITIZEN TRIGGER
+
+Rule L4 — Any Citizen May File
+Standing is presumed. No lawyer is required.
+
+Rule L5 — Zero Cost
+Filing costs the citizen nothing. No fee. No phone call.
+
+Rule L6 — Evidence
+A failed public smoke test, or a rerun of it with the data attached.
+
+Rule L7 — Automatic Docketing
+Every filing receives a public case number at once (00I Rule I9).
+
+Rule L8 — Burden on Government
+The government must prove compliance within 14 days.
+Silence equals failure (00A).
+
+Rule L9 — Neutral Review
+A citizen jury or neutral adjudicator decides the facts (Point 08).
+The model is the elders at the gate.
+
+Rule L10 — Remedy Order
+Remedies follow 00I: invalidation, restitution, suspension, removal, referral.
+
+Rule L11 — No Retaliation
+Retaliation against a filer is a separate violation.
+
+Rule L12 — Priority for the Weak
+Widows, orphans, and others without means are heard first.
+
+Rule L13 — No Self-Help
+No filer may take a remedy by force.
+Unlawful taxation is corrected through lawful process and consensus, not war.
+
+
+VI. DUE PROCESS ON BOTH SIDES
+
+The citizen receives notice, a hearing, a decision with reasons, and an appeal.
+The government receives the same opportunity to show the data was wrong.
+Review covers facts and scope of remedy and may not delay enforcement (00I Rule I10).
+
+
+VII. SCRIPTURAL FOUNDATION (whole stories)
+
+Genesis 2:17; 3:3 — The first drift.
+God told Adam not to eat of the tree. Eve reported, "neither shall ye touch it."
+Teaching: adding to a rule is drift. Every change is recorded (00J; Rule L3).
+
+Genesis 4:15–26 — The first city and the first unlimited vengeance.
+God set a mark on Cain to limit vengeance (4:15). Cain built the first city (4:17).
+Lamech boasted of vengeance "seventy and sevenfold" (4:23–24).
+Then men began to call upon the name of Jehovah (4:26).
+Teaching: without a lawful limit, vengeance grows without bound (Rule L13).
+
+Exodus 22:22–24; Deuteronomy 27:19 — Widows and orphans.
+"If thou afflict them in any wise... I will kill you with the sword."
+"Cursed be he that perverteth the judgment of the stranger, fatherless, and widow."
+Teaching: the weak are heard first (Rule L12).
+
+Ruth 4:1–11; Amos 5:12, 15 — Judgment at the gate.
+Boaz settled a land and family matter before the elders at the gate.
+"Establish judgment in the gate."
+Teaching: neutral review in public (Rule L9).
+
+Deuteronomy 19:14; Proverbs 23:10–11; Hosea 5:10 — Landmarks.
+"Remove not the old landmark; and enter not into the fields of the fatherless: For their redeemer is mighty; he shall plead their cause with thee."
+"The princes of Judah were like them that remove the bound."
+Teaching: rulers may not move the boundary; the fatherless have an advocate.
+
+1 Samuel 25 — David, Nabal and Abigail.
+Protection earned the dues; Nabal refused; David set out for vengeance; Abigail stopped him and paid; God judged.
+Teaching: the dues are real and the remedy is lawful (Rules L10, L13).
+
+Luke 3:12–14 — Correction of tax collectors and soldiers.
+Tax collectors asked John what to do: "Exact no more than that which is appointed you."
+Soldiers asked the same: "Do violence to no man, neither accuse any falsely; and be content with your wages."
+Teaching: overreach is corrected at its source, without violence.
+
+Luke 19:1–10 — Zacchaeus.
+A chief tax collector met Jesus and said, "if I have taken any thing from any man by false accusation, I restore him fourfold."
+Teaching: restitution corrects unlawful taking (00I Rule I6).
+
+Matthew 17:24–27 — The temple tax.
+Jesus taught that the children are free, "Notwithstanding, lest we should offend them," and paid.
+Teaching: a disputed tax is not a cause for violence; work through it without giving offense.
+
+Matthew 22:15–22 — Render unto Caesar.
+A trap question. The coin bears Caesar's image; man bears God's image (Gen. 1:27).
+Teaching: God makes the rules; Caesar's domain is inside them.
+
+Matthew 26:52 — Peter's sword.
+"Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+Teaching: correction by process, not the sword (Rule L13).
+
+
+VIII. FOOTNOTES
+
+Red team: presumed standing and automatic docketing could flood the system with filings; critics read Romans 13 and Matthew 22 as a plain duty to pay.
+Blue team: a filing needs a failed public test, not an opinion; the government gets a fair hearing; and read whole, these passages correct overreach through repentance, restitution and lawful judgment, never rebellion.
+
+
+IX. NON-OVERRIDABILITY
+
+This Control may not be overridden by:
+- Emergency declarations
+- Executive orders
+- Budget acts
+- Administrative rules
+- Judicial delay
+
+
+X. SYSTEM INTEGRATION
+
+This Control governs every AGCL Control and Point.
+It works with 00A, 00G, 00I, 00J, and Point 08.
+
+
+XI. DECLARATION
+
+Power granted with strings attached must be tested, and the citizen must be able to pull the string.
