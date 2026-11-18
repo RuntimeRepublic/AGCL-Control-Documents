@@ -1,8 +1,10 @@
 000 — Scripture Chief Control
 American Gold Contract for Liberty (AGCL)
-Status: Draft (not adopted)
+Status: Adopted
 Version: 0.2
 Date: 2026-11-18
+Adopted: 2026-11-18, by the founder
+Effective: 2026-11-25 (after the 7-day notice interval)
 Supersedes: 0.1 (2026-11-15)
 Scope: All AGCL Controls, Points, doctrine documents, lessons, and rulings
 
@@ -179,8 +181,9 @@ XI. AMENDMENT RECORD (00J)
 
 Amendment 0.2 — Hermeneutical System
 Proposed: 2026-11-18, by pull request, for the founder's review.
-Adopted: not yet. This Control remains Draft (not adopted).
-Notice interval (Rule J6): takes effect no sooner than 7 days after publication, and only on the founder's adoption. (Proposed; founder to confirm.)
+Published: 2026-11-18 (pull request #3, merged).
+Adopted: 2026-11-18, by the founder.
+Notice interval (Rule J6): 7 days, confirmed by the founder. Takes effect 2026-11-25.
 
 Scope (Rule J4)
 Affected document: 000 — Scripture Chief Control only.
