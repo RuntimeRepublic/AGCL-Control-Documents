@@ -115,7 +115,9 @@ States and local governments may levy a sales tax only if fully aligned with H.R
 * Collected at point of sale
 * Fully visible and itemized
 * No income-based exemptions or thresholds
-* No credits, offsets, or behavioral conditions
+* No credits, offsets, or behavioral conditions, except two that mirror H.R. 25 (AMD-002, proposed 2026-11-24):
+  * Household prebate: each household receives, monthly, the state or local rate × the federal poverty guideline for its size; same formula for every household; no income test; no behavior required
+  * Business-input rebate: tax paid on purchases for business purpose is refunded or credited, so the tax falls once, on the final consumer
 * No use as proxy for income, payroll, or property taxation
 
 ---
